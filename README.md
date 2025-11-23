@@ -17,7 +17,25 @@ A number guessing game's main features include randomly generating a secret numb
 <br>
 ● Technologies/tools used
 <br>
-tools like random were used 
+1. Programming Language
+<br>
+Python 3.x
+<br>
+Used to implement the game logic, loops, conditions, and user input handling.
+<br>
+2. Python Standard Library
+<br>
+random module
+<br>
+Generates the random number between 1 and 100.
+<br>
+Function used: random.randint(1, 100)
+<br>
+4. Runtime Environment
+<br>
+Python Interpreter
+<br>
+Executes the .py file and runs the game logic through the terminal.
 <br>
 <br>
 ● Steps to install & run the project
@@ -34,7 +52,7 @@ To verify Python installation, run:
 python --version
 <br>
 <br>
-2. How to Run the Program
+4. How to Run the Program
 <br>
 Open Command Prompt / Terminal
 <br>
@@ -47,7 +65,7 @@ Run the game using:
 python guessing_game.py
 <br>
 <br>
-3. Expected Program Flow
+5. Expected Program Flow
 <br>
 System randomly generates a number between 1 and 100
 <br>
