@@ -24,7 +24,7 @@ tools like random were used
 <br>
 ● Instructions for testing
 <br>
-Open Vs code with having an extension .py and then run this code their 
+1.Open Vs code with having an extension .py and then run this code their 
  Before testing the Guessing Number Game, ensure the following:
  <br>
 The project file (e.g., guessing_game.py) is saved on your computer
@@ -32,6 +32,7 @@ The project file (e.g., guessing_game.py) is saved on your computer
 To verify Python installation, run:
 <br>
 python --version
+<br>
 <br>
 2. How to Run the Program
 <br>
@@ -44,6 +45,7 @@ cd path/to/your/project
 Run the game using:
 <br>
 python guessing_game.py
+<br>
 <br>
 3. Expected Program Flow
 <br>
