@@ -26,22 +26,39 @@ tools like random were used
 <br>
 Open Vs code with having an extension .py and then run this code their 
  Before testing the Guessing Number Game, ensure the following:
+ <br>
 The project file (e.g., guessing_game.py) is saved on your computer
+<br>
 To verify Python installation, run:
+<br>
 python --version
+<br>
 2. How to Run the Program
+<br>
 Open Command Prompt / Terminal
+<br>
 Navigate to the folder where the Python file is saved:
+<br>
 cd path/to/your/project
+<br>
 Run the game using:
+<br>
 python guessing_game.py
+<br>
 3. Expected Program Flow
+<br>
 System randomly generates a number between 1 and 100
+<br>
 User enters a guess
+<br>
 Program displays:
+<br>
 “Too high!” if the guess > target
+<br>
 “Too low!” if the guess < target
+<br>
 “Correct!” when user identifies the number
+<br>
 Program shows total attempts before ending
 <br>
 <br>
