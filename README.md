@@ -23,6 +23,7 @@ Python 3.x
 <br>
 Used to implement the game logic, loops, conditions, and user input handling.
 <br>
+<br>
 2. Python Standard Library
 <br>
 random module
@@ -31,7 +32,8 @@ Generates the random number between 1 and 100.
 <br>
 Function used: random.randint(1, 100)
 <br>
-4. Runtime Environment
+<br>
+3. Runtime Environment
 <br>
 Python Interpreter
 <br>
